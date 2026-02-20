@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi, I'm Ebin Thomas 👋
 
-<!--
-**EbinTKalloor/EbinTKalloor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Junior in Computer Science student (BSCS, Class of 2027)  
+💻 Interested in Software Engineering / Backend / Full Stack  
 
-Here are some ideas to get you started:
+### Tech Stack
+- Languages: Java, Python, JavaScript, C
+- Frameworks: React
+- Tools: Git, AWS, Firebase
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured Projects
+- **Creating Coding project**
+  🔗 Repo | 🌐 Live Demo
+
+
+### What I'm Learning
+- Backend system design
+- Cloud deployment
+
+📫 Email: thom6615@stthomas.edu
+🔗 LinkedIn: [linkedin.com/in/yourname](https://www.linkedin.com/in/ebin-thomas-a95a30295)
+
