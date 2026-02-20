@@ -9,8 +9,8 @@
 - Tools: Git, AWS, Firebase
 
 ### Featured Projects
-- **Creating Coding project**
-  🔗 Repo | 🌐 Live Demo
+- **Creating Coding project - Motive Music**
+  🔗 Repo: [MotiveMusic](https://github.com/EbinTKalloor/MotiveMusic) | 🌐 Live demo: [Demo](https://ebintkalloor.github.io/MotiveMusic/)
 
 
 ### What I'm Learning
